@@ -1,5 +1,5 @@
-👋 Hello! I'm Juan Rodriguez (DonJuanchox)
-💻 Data Scientist | 📊 Data Analyst | 🤖 Machine Learning Enthusiast
+#👋 Hello! I'm Juan Rodriguez (DonJuanchox)
+##💻 Data Scientist | 📊 Data Analyst | 🤖 Machine Learning Enthusiast
 Welcome to my GitHub! I’m passionate about turning data into actionable insights, building predictive models, and creating tools to drive decision-making in data-driven industries. Here, you'll find projects focused on data analysis, machine learning, and finance.
 🔧 Technical Skills
 - Languages: Python, SQL, R
