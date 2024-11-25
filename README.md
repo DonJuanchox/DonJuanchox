@@ -20,14 +20,11 @@ Welcome to my GitHub! I’m passionate about turning data into actionable insigh
 ### 📌 **Pinned Projects**
 Here are some highlights of my work. Check them out to see what I've been up to!
 
-- [**Netflix Case Study**](https://github.com/DonJuanchox/Netflix-Case-Study)  
+- [**Netflix Case Study**](https://github.com/DonJuanchox/Data-analysis/tree/main/Netflix%20case%20-%20study%20case)  
   _A data analysis project exploring user behavior on Netflix using a variety of data cleaning and visualization techniques._
 
-- [**Spotify Data Analysis**](https://github.com/DonJuanchox/Spotify-Data-Analysis)  
+- [**Spotify Data Analysis**](https://github.com/DonJuanchox/Data-analysis/tree/main/Spotify%20-%20study%20case)  
   _Insights on music trends and user preferences through exploratory data analysis and visualizations._
-
-- [**Stock Prediction Model**](https://github.com/DonJuanchox/Stock-Prediction-Model)  
-  _A machine learning model that predicts stock prices based on historical data using time-series analysis._
 
 ---
 
