@@ -44,7 +44,7 @@ I’m deepening my knowledge in:
 ---
 
 ### 🤝 **Let’s Connect!**
-- 💼 [LinkedIn](https://www.linkedin.com/in/juan-rodriguez-peinado)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/juan-rodriguez-peinado-0418b619b/)  
 - 📫 Reach out via email: juannrodriguezpeinado@hotmail.com  
 
 ---
