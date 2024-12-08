@@ -22,10 +22,12 @@ Here are some highlights of my work. Check them out to see what I've been up to!
 
 - [**Netflix Case Study**](https://github.com/DonJuanchox/Data-analysis/tree/main/Netflix%20case%20-%20study%20case)  
   _A data analysis project exploring user behavior on Netflix using a variety of data cleaning and visualization techniques._
-
 - [**Spotify Data Analysis**](https://github.com/DonJuanchox/Data-analysis/tree/main/Spotify%20-%20study%20case)  
   _Insights on music trends and user preferences through exploratory data analysis and visualizations._
-
+- [**UK Corporate Case Study**](https://github.com/DonJuanchox/Data-analysis/tree/main/UK%20corporate%20-%20study%20case)  
+  _A data analysis project exploring UK corporate overview, manipulating large files using ETL principles._
+- [**Report overview**](https://donjuanchox.github.io/Data-analysis/)  
+  _A website containing data visualization overviews._
 ---
 
 ### 🌱 **What I'm Currently Learning**
